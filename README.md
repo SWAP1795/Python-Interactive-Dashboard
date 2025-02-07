@@ -1,6 +1,6 @@
 # Steps to View Dashboard
 # 1. Install required Python libraries:
-` pip install panel `
+` pip install panel `  
 ` pip install hvplot `
 # 2. To launch the dashboard, after you finish coding, use the following command in the Jupyter Lab terminal:
 ` panel serve Python_Visual.ipynb `
